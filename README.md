@@ -24,6 +24,13 @@ uvicorn main:app --reload
 | http://localhost:8000/passport/PLOT-14 | Printable plot passport with QR |
 | http://localhost:8000/docs | All API endpoints |
 
+### ☁️ Streamlit Cloud Deployment
+This repository is pre-configured for instant deployment on **[Streamlit Community Cloud](https://share.streamlit.io)**:
+- **Repository:** `jeshwanth1368/krishismriti`
+- **Branch:** `main`
+- **Main file path:** `streamlit_app.py`
+- **Command to run locally:** `streamlit run streamlit_app.py`
+
 With no key and no Hindsight, it still runs from the rule engine and a local memory file. That's your backup if the Wi-Fi dies on stage. Delete `data/store.json` to reset the demo.
 
 ### Optional: Hindsight memory server
