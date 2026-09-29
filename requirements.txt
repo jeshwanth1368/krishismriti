@@ -8,3 +8,5 @@ gTTS>=2.5
 hindsight-client>=0.4
 python-dotenv>=1.0
 qrcode>=7.4
+streamlit>=1.30.0
+reportlab>=4.0.0
